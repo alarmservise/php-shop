@@ -1,0 +1,1 @@
+<h1>Привет YiiFramework 2</h1>
