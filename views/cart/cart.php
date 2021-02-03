@@ -49,7 +49,7 @@ if ($session['cart']) {
 </div>
 
 <? } else { ?>
-    <h3>В вашей корзине ничего нет :( </h3>
+    <h3>В вашей корзине ничего нет :( тест изменений </h3>
     <button type="button" class="btn btn-secondary btn-close">Нажать покупки</button>
 <? } ?>
 
